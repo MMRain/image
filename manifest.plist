@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.1.189:94/ios/img/1.8.ipa</string>
+					<string>https://github.com/MMRain/image/raw/master/%E6%8C%87%E7%94%A8xy1.8.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://192.168.1.189:94/ios/img/da.png</string>
+					<string>https://github.com/MMRain/image/raw/master/57*57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
